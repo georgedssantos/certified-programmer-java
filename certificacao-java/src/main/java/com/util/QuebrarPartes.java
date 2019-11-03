@@ -4,7 +4,7 @@ import java.math.BigInteger;
 import java.util.ArrayList;
 import java.util.List;
 
-public class QubrarPartes {
+public class QuebrarPartes {
 	//10498.37030 97000.163044 00026.173575 3 75760000024862
 	public String BreakStringParts(BigInteger valor){
 		 String text = valor.toString();
